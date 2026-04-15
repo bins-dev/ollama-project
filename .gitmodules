@@ -4,3 +4,6 @@
 [submodule "ollama-python"]
 	path = ollama-python
 	url = https://github.com/bins-dev/ollama-python.git
+[submodule "ollama-js"]
+	path = ollama-js
+	url = https://github.com/bins-dev/ollama-js.git
