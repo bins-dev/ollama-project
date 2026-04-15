@@ -1,3 +1,6 @@
 [submodule "ollama"]
 	path = ollama
 	url = https://github.com/bins-dev/ollama.git
+[submodule "ollama-python"]
+	path = ollama-python
+	url = https://github.com/bins-dev/ollama-python.git
